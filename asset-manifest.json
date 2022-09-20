@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-typingtrain/static/css/main.717e67cc.css",
-    "main.js": "/react-typingtrain/static/js/main.9170271b.js",
+    "main.js": "/react-typingtrain/static/js/main.8731aafc.js",
     "index.html": "/react-typingtrain/index.html",
     "main.717e67cc.css.map": "/react-typingtrain/static/css/main.717e67cc.css.map",
-    "main.9170271b.js.map": "/react-typingtrain/static/js/main.9170271b.js.map"
+    "main.8731aafc.js.map": "/react-typingtrain/static/js/main.8731aafc.js.map"
   },
   "entrypoints": [
     "static/css/main.717e67cc.css",
-    "static/js/main.9170271b.js"
+    "static/js/main.8731aafc.js"
   ]
 }
