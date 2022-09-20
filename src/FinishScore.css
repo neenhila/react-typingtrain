@@ -1,0 +1,38 @@
+.scoreboard {
+    position: absolute;
+    width: 75%;
+    height: 300px;
+    border: 3px solid white;
+    background-image: linear-gradient(to left bottom, #EA8D8D, #A890FE);
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 30px;
+    color: #FF512F;
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.scoreboard span {
+    text-decoration: underline;
+    text-decoration-color: #D4145A;
+}
+
+#tekrarOyna {
+    width: 60%;
+    height: 36px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right bottom, rgb(218, 26, 26) 10%, #EA8d8d 65%, #a890fe 15%);
+    color: rgb(34, 34, 238);
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+#tekrarOyna:hover {
+    background-image: none;
+    background-color: transparent;
+    color: black;
+}

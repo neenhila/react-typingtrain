@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.3s linear;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #D4145A, #FBB03B);
+    width: 100vw;
+    height: 100vh;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+#root {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
